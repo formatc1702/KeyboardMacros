@@ -2,15 +2,15 @@
 
 ## Usage on MacOS
 
-- Use the "ABC Extended" keyboard layout for diacritics.
 - Import the `.bttpreset` files into [BetterTouchTool](https://folivora.ai/) for Greek and math.
   - Use <kbd>Fn</kbd> and <kbd>Shift</kbd>+<kbd>Fn</kbd> to access the symbols.
+- Optionally use the "ABC Extended" keyboard layout for additional symbols and diacritics.
 
 ## Usage on Windows
 
-- Use [@adunning](https://github.com/adunning)'s [Mac Keyboard Layouts for Windows](https://github.com/adunning/Mac-Keyboard-Layouts-for-Windows) to replicate the "ABC Extended" layout.
 - Run the `.ahk` scripts with [AutoHotKey](https://www.autohotkey.com/).
   - Use <kbd>Right Ctrl</kbd> and <kbd>Shift</kbd>+<kbd>Right Ctrl</kbd> to access the symbols.
+- Optionally use [@adunning](https://github.com/adunning)'s [Mac Keyboard Layouts for Windows](https://github.com/adunning/Mac-Keyboard-Layouts-for-Windows) to replicate the "ABC Extended" layout.
 
 ## General notes
 
