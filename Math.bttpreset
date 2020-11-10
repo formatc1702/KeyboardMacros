@@ -1,0 +1,177 @@
+{
+  "BTTPresetCreatorNotes" : "",
+  "BTTPresetInfoURL" : "",
+  "BTTPresetName" : "Math",
+  "BTTPresetColor" : "72.659955, 47.475900, 163.710000, 255.000000",
+  "BTTPresetUUID" : "FE7ECF74-5574-4856-BEB2-17875D27E878",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KJiIaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnByEBVsyOGNdBgAAABQAAAD__kgAZQBsAHYAZQB0AGkAYwBhAIQBZhCeAJ4BngCeAIaGhg=="
+          },
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 2601,
+          "BTTRepeatDelay" : 0,
+          "BTTUUID" : "7616C42F-41A8-4BE4-BA97-2F5683ECEAE1",
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTLayoutIndependentChar" : "=",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : 24,
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 1,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        },
+        {
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KImoaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnByEBVsyOGNdBgAAABQAAAD__kgAZQBsAHYAZQB0AGkAYwBhAIQBZhCeAJ4BngCeAIaGhg=="
+          },
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 2601,
+          "BTTRepeatDelay" : 0,
+          "BTTUUID" : "D7882B14-B55F-420D-870F-88A6A615AAED",
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTLayoutIndependentChar" : "v",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : 9,
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 0,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        },
+        {
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErAsK9hoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5AJaEAWkDkoSZmQdOU0NvbG9yhpKEhIQHTlNDb2xvcgCWhAFjA4QCZmYAAYaShJmZEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJaEBENDQFMEAIUAhpKEmZkGTlNGb250hpKEhIQGTlNGb250HpacHIQFWzI4Y10GAAAAFAAAAP_+SABlAGwAdgBlAHQAaQBjAGEAhAFmEJ4AngGeAJ4AhoaG"
+          },
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8519682",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 2601,
+          "BTTRepeatDelay" : 0,
+          "BTTUUID" : "DB855D47-CF4E-48B4-95A9-ED246E970F03",
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTLayoutIndependentChar" : "2",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : 19,
+          "BTTShortcutModifierKeys" : 8519680,
+          "BTTOrder" : 3,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        },
+        {
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErAsKyhoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5AJaEAWkDkoSZmQdOU0NvbG9yhpKEhIQHTlNDb2xvcgCWhAFjA4QCZmYAAYaShJmZEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJaEBENDQFMEAIUAhpKEmZkGTlNGb250hpKEhIQGTlNGb250HpacHIQFWzI4Y10GAAAAFAAAAP_+SABlAGwAdgBlAHQAaQBjAGEAhAFmEJ4AngGeAJ4AhoaG"
+          },
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 2601,
+          "BTTRepeatDelay" : 0,
+          "BTTUUID" : "0B723FA8-4C45-47FD-9A93-FC3CD423424A",
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTLayoutIndependentChar" : "2",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : 19,
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 2,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        },
+        {
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErAsKzhoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5AJaEAWkDkoSZmQdOU0NvbG9yhpKEhIQHTlNDb2xvcgCWhAFjA4QCZmYAAYaShJmZEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJaEBENDQFMEAIUAhpKEmZkGTlNGb250hpKEhIQGTlNGb250HpacHIQFWzI4Y10GAAAAFAAAAP_+SABlAGwAdgBlAHQAaQBjAGEAhAFmEJ4AngGeAJ4AhoaG"
+          },
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 2601,
+          "BTTRepeatDelay" : 0,
+          "BTTUUID" : "72EB7723-3EED-45F5-A90E-C537733ACD72",
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTLayoutIndependentChar" : "3",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : 20,
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 4,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        },
+        {
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTAdditionalActionData" : {
+            "BTTActionTextToPaste" : "BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISEGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0cmluZwGEhAhOU1N0cmluZwGWhAErA+KInoaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCWhAFpA5KEmZkHTlNDb2xvcoaShISEB05TQ29sb3IAloQBYwOEAmZmAAGGkoSZmRBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCWhARDQ0BTBACFAIaShJmZBk5TRm9udIaShISEBk5TRm9udB6WnByEBVsyOGNdBgAAABQAAAD__kgAZQBsAHYAZQB0AGkAYwBhAIQBZhCeAJ4BngCeAIaGhg=="
+          },
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTEnabled2" : 1,
+          "BTTKeyboardShortcutKeyboardType" : 2601,
+          "BTTRepeatDelay" : 0,
+          "BTTUUID" : "AF68C1EC-6060-488B-A3A0-DF7B3E82047F",
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTLayoutIndependentChar" : "8",
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTShortcutKeyCode" : 28,
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 5,
+          "BTTDisplayOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}
