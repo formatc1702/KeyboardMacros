@@ -1,5 +1,19 @@
 # Custom Keyboard Macros
 
+## Included symbols
+
+### Greek lowercase
+
+`α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω`
+
+### Greek uppercase
+
+`Γ Δ Θ Λ Ξ Π Σ Φ Ψ Ω`
+
+### Math
+
+`√ ≈ ² ½ ³ ∞`
+
 ## Usage on MacOS
 
 - Import the `.bttpreset` files into [BetterTouchTool](https://folivora.ai/) for Greek and math.
